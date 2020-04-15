@@ -4,7 +4,7 @@
   "version": 2,
   "functions": {
     "api/**": {
-      "memory": 960
+      "memory": 1024
     }
   },
   "rewrites": [
