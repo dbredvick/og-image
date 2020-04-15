@@ -1,4 +1,4 @@
-<a href="https://zeit.co/new/project?template=zeit/og-image"><img width="128" src="https://zeit.co/button" align="right"></a>
+<a href="https://zeit.co/new/project?template=dbredvick/og-image"><img width="128" src="https://zeit.co/button" align="right"></a>
 
 # [Open Graph Image as a Service](https://og-image.now.sh)
 
